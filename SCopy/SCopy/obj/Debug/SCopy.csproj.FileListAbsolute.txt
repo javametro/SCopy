@@ -1,0 +1,6 @@
+C:\SCopy\SCopy\SCopy\bin\Debug\SCopy.exe.config
+C:\SCopy\SCopy\SCopy\bin\Debug\SCopy.exe
+C:\SCopy\SCopy\SCopy\bin\Debug\SCopy.pdb
+C:\SCopy\SCopy\SCopy\obj\Debug\SCopy.csproj.CoreCompileInputs.cache
+C:\SCopy\SCopy\SCopy\obj\Debug\SCopy.exe
+C:\SCopy\SCopy\SCopy\obj\Debug\SCopy.pdb
